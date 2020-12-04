@@ -1,0 +1,21 @@
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\PayRoll Application.exe.config
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\PayRoll Application.exe
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\PayRoll Application.pdb
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\MySql.Data.dll
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\Google.Protobuf.dll
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\Renci.SshNet.dll
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\bin\Debug\MySql.Data.xml
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll Application.csprojAssemblyReference.cache
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll_Application.EmployeeForm.resources
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll_Application.Properties.Resources.resources
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll Application.csproj.GenerateResource.cache
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll Application.csproj.CoreCompileInputs.cache
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll Application.csproj.CopyComplete
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll Application.exe
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll Application.pdb
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll_Application.PreviewForm.resources
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll_Application.DataShow.resources
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll_Application.LogIn.resources
+C:\Users\archi\source\repos\PayRoll Application\PayRoll Application\obj\Debug\PayRoll_Application.PayrollCalculator.resources
